@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Paros_on_the_rocks" id="Paros_on_the_rocks">
+	<SimpleField name="Description" type="string"></SimpleField>
+</Schema>
+<Folder><name>Paros_on_the_rocks</name>
+  <Placemark>
+	<name>Paros on the rocks</name>
+	<description>Paros on the rocks</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>25.2143583571245,37.1293478406681 25.2143988535968,37.1294445928229 25.2145285106734,37.129414691204 25.2145641113942,37.1294093689355 25.2145463178648,37.1293525850537 25.2145551862672,37.1293158086775 25.2145864985393,37.1293027786131 25.2145534545547,37.129270848363 25.21448209495,37.1293138534661 25.2144181542534,37.129342090289 25.2143583571245,37.1293478406681</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
